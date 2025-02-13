@@ -1,3 +1,11 @@
+import React from "react";
+
+export const Main = () => {
+  return <div>Main</div>;
+};
+
+/*
+
 ---
 //
 ---
@@ -35,3 +43,4 @@
     <!-- TODO: Música que le he dedicado. <MusicCard /> -->
   </div>
 </main>
+*/

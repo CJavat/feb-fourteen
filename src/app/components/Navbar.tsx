@@ -1,3 +1,11 @@
+import React from "react";
+
+export const Navbar = () => {
+  return <div>Navbar</div>;
+};
+
+/*
+
 ---
 //
 ---
@@ -14,3 +22,4 @@
     <li><a href="#">Blog</a></li>
   </ul>
 </nav>
+*/
