@@ -1,9 +1,5 @@
 import React from "react";
 
-interface Props {
-  src: string;
-}
-
-export const MusicCard = ({ src }: Props) => {
+export const MusicCard = () => {
   return <div>MusicCard</div>;
 };

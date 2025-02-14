@@ -1,9 +1,5 @@
 import React from "react";
 
-interface Props {
-  src: string;
-}
-
-export const VideoCard = ({ src }: Props) => {
+export const VideoCard = () => {
   return <div>VideoCard</div>;
 };
